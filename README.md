@@ -48,7 +48,6 @@ The isHappy function checks whether a number is a “happy number.”
 >> Python 3.12.3
 >> ```
 > ```shell
-> ```shell
 > docker inspect --format="{{ •HostConfig.Binds }}" ossp-container
 > ```
 > - This commands docker to check the bind mounts of ossp-container which prints any directory mappings of volumnes shared between host and the container.
